@@ -25,7 +25,7 @@ class CardAbout extends StatelessWidget {
             child: Wrap(
               children: [
                 Text(
-                  '''Roman Ismael Chan Tuyu
+                  '''Roman Chan
                   5a 
                   2 Horas''',
                   style: style.copyWith(fontSize: 20,fontWeight: FontWeight.bold),
