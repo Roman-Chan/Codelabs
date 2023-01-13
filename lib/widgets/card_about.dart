@@ -26,7 +26,7 @@ class CardAbout extends StatelessWidget {
               children: [
                 Text(
                   '''Roman Chan Ismael Chan  
-                  5a, 2 Horas''',
+                  5a,  2 Horas''',
                   style: style.copyWith(fontSize: 20,fontWeight: FontWeight.bold),
                 ),
               ],
